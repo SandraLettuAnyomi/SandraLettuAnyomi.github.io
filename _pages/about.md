@@ -4,7 +4,7 @@ excerpt: About Me
 permalink: /
 author_profile: true
 redirect_from:
-  about /about.html
+  /about /about.html
 ---
 
 Welcome to my website! I am a current PhD student in the Department of Agricultural Economics at the [University of Connecticut](https://are.uconn.edu). 
