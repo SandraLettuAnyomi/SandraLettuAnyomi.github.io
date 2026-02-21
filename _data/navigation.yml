@@ -24,7 +24,8 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Academic_CV_recent.pdf
+    target: _blank
     
   # - title: "CV"
   #   url: /cv-json/
