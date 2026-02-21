@@ -1,30 +1,33 @@
 ---
-title: "Archive Layout with Content"
+title: ""
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /research/
+author_profile
 ---
 
-A variety of common markup showing how the theme styles them.
+# Peer-reviewed publications
+Energy poverty and public health: Global evidence
+with Lei Pan and Ashenafi Biru
+Energy Economics, vol. 101, 2021, article 105423.
 
-# Header one
+## Working Papers:
+Ecological shocks, agricultural productivity and labor use: Evidence from cocoa farmers in Ghana.
 
-## Header two
+Transaction costs in the farm to institution supply chain: An exploratory analysis
+Revise & Resubmit, Journal of Agriculture, Food Systems and Community Development.
 
-### Header three
+### Works-in-Progress:
+Market power in U.S. regional meat supply chains
+with Rigoberto Lopez and Luis Seoane-Estruel
 
-#### Header four
+Grocery retail formats and markups
+with Rigoberto Lopez and Sandro Steinbach
 
-##### Header five
+Wind farms and agricultural productivity
+with Shinsuke Tanaka, Erik Katovich, Charles Towe, Wei Ren
 
-###### Header six
 
-## Blockquotes
 
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
