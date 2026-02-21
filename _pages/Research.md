@@ -14,9 +14,9 @@ Energy Economics, vol. 101, 2021, article 105423.
 Ecological shocks, agricultural productivity and labor use: Evidence from cocoa farmers in Ghana.
 
 Transaction costs in the farm to institution supply chain: An exploratory analysis <br>
-Revise & Resubmit, Journal of Agriculture, Food Systems and Community Development.
+Revise & Resubmit; Journal of Agriculture, Food Systems and Community Development.
 
-### Works-in-Progress
+### Works in Progress
 Market power in U.S. regional meat supply chains <br>
 with Rigoberto Lopez and Luis Seoane-Estruel
 
