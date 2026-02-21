@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Peer-reviewed publications
-Energy poverty and public health: Global evidence
+Energy poverty and public health: Global evidence <br>
 with Lei Pan and Ashenafi Biru
 Energy Economics, vol. 101, 2021, article 105423.
 
