@@ -7,7 +7,7 @@ redirect_from:
   /about /about.html
 ---
 
-Welcome to my website! I am a current PhD student in the Department of Agricultural Economics at the [University of Connecticut](https://are.uconn.edu). 
+Welcome to my website! I am a current PhD student in the Department of Agricultural and Resource Economics at the [University of Connecticut](https://are.uconn.edu). 
 
 My research sits at the intersection of labor economics and empirical industrial organization, drawing on tools from environmental economics. I study how individuals and firms in developed and developing economies respond to ecological, technological, and climate shocks.
 
