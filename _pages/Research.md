@@ -18,7 +18,7 @@ Draft available on request.
 Revise & Resubmit; Journal of Agriculture, Food Systems and Community Development.
 
 ### Works in Progress
-**Market power in U.S. regional meat supply chains. ** <br>
+**Market power in U.S. regional meat supply chains.** <br>
 with Rigoberto Lopez and Luis Seoane-Estruel
 
 **Grocery retail formats and markups.** <br>
