@@ -17,7 +17,7 @@ Draft available on request.
 **Transaction costs in the farm to institution supply chain: An exploratory analysis.** <br>
 Revise & Resubmit; Journal of Agriculture, Food Systems and Community Development.
 
-## Works in Progress
+## Work in Progress
 **Market power in U.S. regional meat supply chains.** <br>
 with Rigoberto Lopez and Luis Seoane-Estruel
 
