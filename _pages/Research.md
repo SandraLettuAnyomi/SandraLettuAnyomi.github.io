@@ -25,5 +25,5 @@ with Rigoberto Lopez and Luis Seoane-Estruel
 with Rigoberto Lopez and Sandro Steinbach
 
 **Wind farms and agricultural productivity.** <br>
-with Shinsuke Tanaka, Erik Katovich, Charles Towe, Wei Ren
+with Shinsuke Tanaka, Erik Katovich, Charles Towe, and Wei Ren
 
