@@ -11,14 +11,14 @@ with Lei Pan and Ashenafi Biru <br>
 Energy Economics, vol. 101, 2021, article 105423.
 
 ## Working Papers 
-**Ecological shocks, agricultural productivity and behavioral responses: Evidence from cocoa farmers in Ghana.** <br>
+**Ecological shocks, agricultural productivity and input reallocation: Evidence from crop diseases.** <br>
 Draft available on request.
 
 **Transaction costs in the farm to institution supply chain: An exploratory analysis.** <br>
 Revise & Resubmit; Journal of Agriculture, Food Systems and Community Development.
 
 ## Work in Progress
-**Wind farms and agricultural productivity.** <br>
+**Production, income and land use effects of wind farm expansion.** <br>
 with Shinsuke Tanaka
 
 **Market power in U.S. regional meat supply chains.** <br>
